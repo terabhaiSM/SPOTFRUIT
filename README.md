@@ -71,7 +71,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/tracysuzanne321/My-Music
+   git clone https://github.com/mradulsingh0223/SPOTFRUIT
    ```
 2. Install NPM packages
    ```sh
@@ -85,10 +85,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Email me at - mradul.singh.min21@itbhu.ac.in
 
-Project Link: [https://github.com/tracysuzanne321/My-Music](https://github.com/tracysuzanne321/My-Music)
+Project Link: https://github.com/mradulsingh0223/SPOTFRUIT
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-## Backend
-
-The back end is built with node, the repo can be found [here](https://github.com/tracysuzanne321/restAPI)
