@@ -71,7 +71,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mradulsingh0223/SPOTFRUIT
+   git clone https://github.com/terbhaiSM/SPOTFRUIT
    ```
 2. Install NPM packages
    ```sh
@@ -81,10 +81,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- CONTACT -->
 
-## Contact
-
-Email me at - mradul.singh.min21@itbhu.ac.in
-
-Project Link: https://github.com/mradulsingh0223/SPOTFRUIT
 
 <p align="right">(<a href="#top">back to top</a>)</p>
