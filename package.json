@@ -4,9 +4,9 @@
 	"private": true,
 	"dependencies": {
 		"@craco/craco": "^6.4.2",
-		"@testing-library/jest-dom": "^5.15.0",
-		"@testing-library/react": "^11.2.7",
-		"@testing-library/user-event": "^12.8.3",
+		"@testing-library/jest-dom": "^5.11.4",
+		"@testing-library/react": "^11.1.0",
+		"@testing-library/user-event": "^12.1.10",
 		"dotenv": "^10.0.0",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
@@ -14,8 +14,8 @@
 		"react-scripts": "4.0.3"
 	},
 	"scripts": {
-		"start": "craco start",
-		"build": "craco build",
+		"start": "cross-env NODE_OPTIONS=--openssl-legacy-provider craco start",
+		"build": "cross-env NODE_OPTIONS=--openssl-legacy-provider craco build",
 		"test": "craco test",
 		"eject": "react-scripts eject",
 		"build:css": "postcss src/tailwind.css -o src/styles/main.css",
@@ -43,7 +43,9 @@
 	"main": "index.js",
 	"devDependencies": {
 		"autoprefixer": "^9.8.8",
+		"cross-env": "^7.0.3",
 		"postcss": "^7.0.39",
+		"postcss-cli": "^7.1.2",
 		"tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
 	},
 	"keywords": [],
